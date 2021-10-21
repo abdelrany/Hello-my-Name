@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HellomyName</string>
+    <string name="enter_name">Entre your name </string>
+    <string name="click_me">Submit</string>
+    <string name="hint">Entre your name here </string>
+
+
+</resources>
